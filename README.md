@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently working on a discord bot that will support the [Dank Memer](https://dankmemer.lol/) community
+- I'm currently working with python and learning several libraries
+- Reach me on discord Ceres#9663
+
 <!--
 **Ceres445/Ceres445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
