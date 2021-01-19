@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently working on a discord bot that will support the [Dank Memer](https://dankmemer.lol/) community
-- I'm currently working with python and learning several libraries
+- Nearly proficient in python lol
 - Reach me on discord Ceres#9663
 
 <!--
