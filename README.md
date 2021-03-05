@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - I'm currently not working on any project.
-- Prefer python
+- I use python mostly
 - Reach me on discord Ceres#9663
 
 <!--
