@@ -1,8 +1,9 @@
 ### Hello there 👋
 
 - I'm currently not working on any project.
-- I use python mostly
-- Reach me on discord Ceres#9663
+- I'm currently learning vanilla js.
+- I know python.
+- Reach me on [discord](https://discord.com/users/488278979900342282)
 
 <!--
 **Ceres445/Ceres445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
