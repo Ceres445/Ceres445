@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - I'm currently not working on any project.
-- I'm currently learning vanilla js.
+- I'm interested in working on discord.py projects
 - I know python.
 - Reach me on [discord](https://discord.com/users/488278979900342282)
 
