@@ -1,8 +1,9 @@
-### Hello there 👋
+### Hello there 
+
 
 - I'm currently not working on any project.
 - I'm interested in working on discord.py projects
-- I know python.
+- I use Python and JavaScript.
 - Reach me on [discord](https://discord.com/users/488278979900342282)
 
 <!--
