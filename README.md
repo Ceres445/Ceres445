@@ -2,7 +2,6 @@
 
 
 - I'm currently not working on any project.
-- I'm interested in working on discord.py projects
 - I use Python and JavaScript.
 - Reach me on [discord](https://discord.com/users/488278979900342282)
 
