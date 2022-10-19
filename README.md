@@ -2,7 +2,9 @@
 
 
 - I'm currently not working on any project.
-- I use Python and JavaScript.
+- Student at BITS Goa.
+- I use Python, JavaScript, Rust
+- Interested in Open Source contributing and competitive programming.
 - Reach me on [discord](https://discord.com/users/488278979900342282)
 
 <!--
