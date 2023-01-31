@@ -2,10 +2,11 @@
 
 
 - I'm currently not working on any project.
-- Student at BITS Goa.
-- I use Python, JavaScript, Rust
+- CS undergraduate at BITS Goa.
+- I use Python, JavaScript, and Rust
 - Interested in Open Source contributing and competitive programming.
 - Reach me on [discord](https://discord.com/users/488278979900342282)
+- Pronouns he/him.
 
 <!--
 **Ceres445/Ceres445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
