@@ -1,10 +1,8 @@
 ### Hello there 
 
 
-- I'm currently not working on any project.
 - CS undergraduate at BITS Goa.
-- I use Python, JavaScript, and Rust
-- Interested in Open Source contributing and competitive programming.
+- I use Python, JavaScript, and Rust.
 - Reach me on [discord](https://discord.com/users/488278979900342282)
 - Pronouns he/him.
 
