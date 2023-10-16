@@ -3,7 +3,6 @@
 
 - CS undergraduate at BITS Goa.
 - I use Python, JavaScript, and Rust.
-- Avid Neovim user
 - Reach me on [discord](https://discord.com/users/488278979900342282)
 - Pronouns he/him.
 
